@@ -2,7 +2,7 @@
 
 
 I'm Yağız Sarıdoğan
-I am a fresh Bilkent Student
+I am a fresh Bilkent University student
 I major in computer science
 
 
